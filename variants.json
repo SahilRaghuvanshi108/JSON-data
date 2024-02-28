@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Variant 1",
+      "description": "This is the description for Variant 1.",
+      "measure": "Metric A",
+      "experience": "High"
+    },
+    {
+      "title": "Variant 2",
+      "description": "This is the description for Variant 2.",
+      "measure": "Metric B",
+      "experience": "Medium"
+    },
+    {
+      "title": "Variant 3",
+      "description": "This is the description for Variant 3.",
+      "measure": "Metric C",
+      "experience": "Low"
+    },
+    {
+      "title": "Variant 4",
+      "description": "This is the description for Variant 4.",
+      "measure": "Metric D",
+      "experience": "High"
+    },
+    {
+      "title": "Variant 5",
+      "description": "This is the description for Variant 5.",
+      "measure": "Metric E",
+      "experience": "Medium"
+    },
+    {
+      "title": "Variant 6",
+      "description": "This is the description for Variant 6.",
+      "measure": "Metric F",
+      "experience": "Low"
+    },
+    {
+      "title": "Variant 7",
+      "description": "This is the description for Variant 7.",
+      "measure": "Metric G",
+      "experience": "High"
+    },
+    {
+      "title": "Variant 8",
+      "description": "This is the description for Variant 8.",
+      "measure": "Metric H",
+      "experience": "Medium"
+    }
+  
+]
+
