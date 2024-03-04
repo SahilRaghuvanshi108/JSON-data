@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Knowledge - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Conceptual",
+    "scale": "Basic",
+    "type": "competency"
+  },
+  {
+    "title": "Qualification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Qualification",
+    "scale": "Basic",
+    "type": "competency"
+  },
+  {
+    "title": "Customer - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Experience",
+    "scale": "Entry level",
+    "type": "competency"
+  },
+  {
+    "title": "Certification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Score",
+    "scale": 8,
+    "type": "competency"
+  },
+  {
+    "title": "Ability - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Conceptual",
+    "scale": "Proficient",
+    "type": "competency"
+  },
+  {
+    "title": "Accreditation SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Qualification",
+    "scale": "Master's",
+    "type": "competency"
+  },
+  {
+    "title": "Knowledge - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Conceptual",
+    "scale": "Advanced",
+    "type": "competency"
+  },
+  {
+    "title": "Qualification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Qualification",
+    "scale": "Doctorate",
+    "type": "competency"
+  },
+  {
+    "title": "Customer - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Experience",
+    "scale": "Senior",
+    "type": "competency"
+  },
+  {
+    "title": "Certification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Score",
+    "scale": 5,
+    "type": "competency"
+  },
+  {
+    "title": "Ability - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Conceptual",
+    "scale": "Expert",
+    "type": "competency"
+  },
+  {
+    "title": "Accreditation SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Qualification",
+    "scale": "Associate",
+    "type": "competency"
+  },
+  {
+    "title": "Knowledge - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Conceptual",
+    "scale": "Developing",
+    "type": "competency"
+  },
+  {
+    "title": "Qualification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Qualification",
+    "scale": "Bachelor's",
+    "type": "competency"
+  },
+  {
+    "title": "Customer - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Experience",
+    "scale": "Mid-Level",
+    "type": "competency"
+  },
+  {
+    "title": "Certification - SM",
+    "description": "A description of the variant. Describe in details etc.",
+    "measure": "Score",
+    "scale": 9,
+    "type": "competency"
+  }
+]
