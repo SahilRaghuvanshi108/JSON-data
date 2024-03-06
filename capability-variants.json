@@ -61,40 +61,5 @@
       "measure": "Advanced",
       "experience": "4Y",
       "type": "capability"
-    },
-    {
-      "title": "Customer SM X",
-      "description": "A description of Customer SM X. Describe in details etc.",
-      "measure": "Expert",
-      "experience": "8Y",
-      "type": "capability"
-    },
-    {
-      "title": "Customer SM XI",
-      "description": "A description of Customer SM XI. Describe in details etc.",
-      "measure": "Novice",
-      "experience": "14Y",
-      "type": "capability"
-    },
-    {
-      "title": "Customer SM XII",
-      "description": "A description of Customer SM XII. Describe in details etc.",
-      "measure": "Developing",
-      "experience": "17Y",
-      "type": "capability"
-    },
-    {
-      "title": "Customer SM XIII",
-      "description": "A description of Customer SM XIII. Describe in details etc.",
-      "measure": "Proficient",
-      "experience": "20Y",
-      "type": "capability"
-    },
-    {
-      "title": "Customer SM XIV",
-      "description": "A description of Customer SM XIV. Describe in details etc.",
-      "measure": "Advanced",
-      "experience": "5Y",
-      "type": "capability"
     }
 ]
