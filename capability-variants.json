@@ -1,58 +1,122 @@
-[
+ [
     {
       "title": "Customer SM I",
       "description": "A description of Customer SM I. Describe in details etc.",
       "measure": "Novice",
-      "experience": "1Y",
-      "type": "capability"
+      "experience": "1Y"
     },
     {
       "title": "Customer SM II",
       "description": "A description of Customer SM II. Describe in details etc.",
       "measure": "Developing",
-      "experience": "3Y",
-      "type": "capability"
+      "experience": "3Y"
     },
     {
       "title": "Customer SM III",
       "description": "A description of Customer SM III. Describe in details etc.",
       "measure": "Proficient",
-      "experience": "6Y",
-      "type": "capability"
+      "experience": "6Y"
     },
     {
       "title": "Customer SM IV",
       "description": "A description of Customer SM IV. Describe in details etc.",
       "measure": "Advanced",
-      "experience": "9Y",
-      "type": "capability"
+      "experience": "9Y"
     },
     {
       "title": "Customer SM V",
       "description": "A description of Customer SM V. Describe in details etc.",
       "measure": "Expert",
-      "experience": "12Y",
-      "type": "capability"
+      "experience": "12Y"
     },
     {
       "title": "Customer SM VI",
       "description": "A description of Customer SM VI. Describe in details etc.",
       "measure": "Novice",
-      "experience": "15Y",
-      "type": "capability"
+      "experience": "15Y"
     },
     {
       "title": "Customer SM VII",
       "description": "A description of Customer SM VII. Describe in details etc.",
       "measure": "Developing",
-      "experience": "18Y",
-      "type": "capability"
+      "experience": "18Y"
     },
     {
       "title": "Customer SM VIII",
       "description": "A description of Customer SM VIII. Describe in details etc.",
       "measure": "Proficient",
-      "experience": "21Y",
-      "type": "capability"
+      "experience": "21Y"
+    },
+    {
+      "title": "Customer SM IX",
+      "description": "A description of Customer SM IX. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "4Y"
+    },
+    {
+      "title": "Customer SM X",
+      "description": "A description of Customer SM X. Describe in details etc.",
+      "measure": "Expert",
+      "experience": "8Y"
+    },
+    {
+      "title": "Customer SM XI",
+      "description": "A description of Customer SM XI. Describe in details etc.",
+      "measure": "Novice",
+      "experience": "14Y"
+    },
+    {
+      "title": "Customer SM XII",
+      "description": "A description of Customer SM XII. Describe in details etc.",
+      "measure": "Developing",
+      "experience": "17Y"
+    },
+    {
+      "title": "Customer SM XIII",
+      "description": "A description of Customer SM XIII. Describe in details etc.",
+      "measure": "Proficient",
+      "experience": "20Y"
+    },
+    {
+      "title": "Customer SM XIV",
+      "description": "A description of Customer SM XIV. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "5Y"
+    },
+    {
+      "title": "Customer SM XV",
+      "description": "A description of Customer SM XV. Describe in details etc.",
+      "measure": "Expert",
+      "experience": "10Y"
+    },
+    {
+      "title": "Customer SM XVI",
+      "description": "A description of Customer SM XVI. Describe in details etc.",
+      "measure": "Novice",
+      "experience": "13Y"
+    },
+    {
+      "title": "Customer SM XVII",
+      "description": "A description of Customer SM XVII. Describe in details etc.",
+      "measure": "Developing",
+      "experience": "16Y"
+    },
+    {
+      "title": "Customer SM XVIII",
+      "description": "A description of Customer SM XVIII. Describe in details etc.",
+      "measure": "Proficient",
+      "experience": "19Y"
+    },
+    {
+      "title": "Customer SM XIX",
+      "description": "A description of Customer SM XIX. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "2Y"
+    },
+    {
+      "title": "Customer SM XX",
+      "description": "A description of Customer SM XX. Describe in details etc.",
+      "measure": "Expert",
+      "experience": "7Y"
     }
-]
+  ]
