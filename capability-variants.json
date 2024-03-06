@@ -19,6 +19,82 @@
       "measure": "Proficient",
       "experience": "6Y",
       "type": "capability"
+    },
+        {
+      "title": "Customer SM IV",
+      "description": "A description of Customer SM IV. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "9Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM V",
+      "description": "A description of Customer SM V. Describe in details etc.",
+      "measure": "Expert",
+      "experience": "12Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM VI",
+      "description": "A description of Customer SM VI. Describe in details etc.",
+      "measure": "Novice",
+      "experience": "15Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM VII",
+      "description": "A description of Customer SM VII. Describe in details etc.",
+      "measure": "Developing",
+      "experience": "18Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM VIII",
+      "description": "A description of Customer SM VIII. Describe in details etc.",
+      "measure": "Proficient",
+      "experience": "21Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM IX",
+      "description": "A description of Customer SM IX. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "4Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM X",
+      "description": "A description of Customer SM X. Describe in details etc.",
+      "measure": "Expert",
+      "experience": "8Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM XI",
+      "description": "A description of Customer SM XI. Describe in details etc.",
+      "measure": "Novice",
+      "experience": "14Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM XII",
+      "description": "A description of Customer SM XII. Describe in details etc.",
+      "measure": "Developing",
+      "experience": "17Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM XIII",
+      "description": "A description of Customer SM XIII. Describe in details etc.",
+      "measure": "Proficient",
+      "experience": "20Y",
+      "type": "capability"
+    },
+    {
+      "title": "Customer SM XIV",
+      "description": "A description of Customer SM XIV. Describe in details etc.",
+      "measure": "Advanced",
+      "experience": "5Y",
+      "type": "capability"
     }
-
 ]
