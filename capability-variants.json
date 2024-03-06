@@ -1,5 +1,4 @@
-{
-  "capabilityVariants": [
+[
     {
       "title": "Customer SM I",
       "description": "A description of Customer SM I. Describe in details etc.",
@@ -141,4 +140,3 @@
       "type": "capability"
     }
   ]
-}
